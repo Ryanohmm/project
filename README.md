@@ -1,1 +1,1 @@
-# project
+There are three different versions of summer-chores in this project folder. Each one should accomplish the task but with different times taken and different possibilities of tiring before mowing the lawn. Each option uses either callbacks, promises or async and await functions. 
