@@ -2,10 +2,10 @@ function mowYard(personName, callback) {
     setTimeout(() => {
         console.log(`${personName} mowed the yard.`);
         callback();
-    }, 2000); // Simulating the time taken to mow the yard
+    }, 2000); 
 }
 
-// Example usage:
+
 mowYard('Ryan', () => {
     console.log('Chore complete!');
 });
